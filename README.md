@@ -934,7 +934,7 @@ because they were unavailable to Get-DscResource and Import-DscResource.
 
 ### 3.8.0.0
 
-* Added Pester tests to validate pullserver deployement.
+* Added Pester tests to validate pullserver deployment.
 * Removed Compliance Server deployment from xWebservice resource. Fixed database provider selection issue depending on OS flavor
 * Added Publish-DSCModuleAndMof cmdlet to package DSC modules and mof and publish them on DSC enterprise pull server
 * xRemoteFile resource: Added size verification in cache
